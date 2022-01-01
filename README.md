@@ -74,6 +74,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammanojrathod&show_icons=true&theme=radical)](https://github.com/iammanojrathod/github-readme-stats)
   
 </div>  
+
+</br>
+
+<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@iammanojrathod&compact=True"/>
+</a>
+<br>
            
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/manojrathod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manojrathod" /></a></p><br><br>

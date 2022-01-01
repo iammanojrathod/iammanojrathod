@@ -31,17 +31,16 @@
 </br>
 
 
-### <div align="center">I’m a Computer Engineering student , I'm a creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</div>  
+### <div align="left">I’m a Computer Engineering student , I'm a creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</div>  
   
+- 🔭 I’m currently working on [Mstore. (Ecommerce Website)](https://mstore24.netlify.app/)
 
-- 🔭 I’m currently working on [Ecommerce Website](https://mstore24.netlify.app/)  
-  
+- 🌱 I’m currently learning **JavaScript and React.js**
 
-- 🌱 I’m currently learning JavaScript and React.js  
-  
+- 👯 I’m looking to collaborate on **Open Source**
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 📫 How to reach me **rathodmanoj247@gmail.com**
+
 
 <br/>  
 
@@ -71,17 +70,16 @@
  
   
 ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammanojrathod&show_icons=true&theme=radical) 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iammanojrathod&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) </br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iammanojrathod&theme=radical)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammanojrathod&show_icons=true&theme=radical)](https://github.com/iammanojrathod/github-readme-stats)
   
 </div>  
-        <div align="center">
-            <a href="https://www.buymeacoffee.com/manojrathod" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>               
+           
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/manojrathod"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manojrathod" /></a></p><br><br>
+
+
+
 <!---
 iammanojrathod/iammanojrathod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -5,8 +5,9 @@
  </div> 
 
 ##  
-   <div align="center">
-<img src="https://komarev.com/ghpvc/?username=iammanojrathod&&style=flat-square" align="center" />
+  <div align="center">
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/iammanojrathod?style=flat-square" align="center" />
+ <img src="https://komarev.com/ghpvc/?username=iammanojrathod&&style=flat-square" align="center" />
 </div> 
 
 ## Connect with me  

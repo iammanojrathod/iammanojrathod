@@ -87,6 +87,8 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make Ecommerce website responsive?](https://dev.to/iammanojrathod/how-to-make-ecommerce-website-responsive-4a2n)
+- [How to create mega dropdown menu?](https://dev.to/iammanojrathod/how-to-create-mega-dropdown-menu-2a7d)
 <!-- BLOG-POST-LIST:END -->
            
 <h3 align="left">Support:</h3>

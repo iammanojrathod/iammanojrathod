@@ -87,6 +87,7 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create Advanced Button hover effect in HTML and CSS](https://dev.to/iammanojrathod/how-to-create-advanced-button-hover-effect-in-html-and-css-4fp)
 - [How to make Ecommerce website responsive?](https://dev.to/iammanojrathod/how-to-make-ecommerce-website-responsive-4a2n)
 - [How to create mega dropdown menu?](https://dev.to/iammanojrathod/how-to-create-mega-dropdown-menu-2a7d)
 <!-- BLOG-POST-LIST:END -->

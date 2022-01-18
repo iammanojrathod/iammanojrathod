@@ -94,6 +94,7 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Animated hamburger menu](https://dev.to/iammanojrathod/animated-hamburger-menu-2n7n)
 - [Random background color changer in JavaScript](https://dev.to/iammanojrathod/random-background-color-changer-in-javascript-pp2)
 - [How to create Advanced Button hover effect in HTML and CSS](https://dev.to/iammanojrathod/how-to-create-advanced-button-hover-effect-in-html-and-css-4fp)
 <!-- BLOG-POST-LIST:END -->

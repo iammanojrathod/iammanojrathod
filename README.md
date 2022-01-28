@@ -1,7 +1,7 @@
 [![Manoj's GitHub Banner](https://github.com/iammanojrathod/assets.github.io/blob/main/banner.png)](https://github.com/iammanojrathod)
 
  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Still+novice%2C+got+a+lot+to+learn.;Loves+Web+Development." align="center" />  
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Still+novice%2C+got+a+lot+to+learn.;Loves+Web+Development.+❤" align="center" />  
  </div> 
 
 ##  

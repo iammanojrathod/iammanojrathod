@@ -94,11 +94,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Weather app using Javascript](https://dev.to/iammanojrathod/weather-app-using-javascript-4chc)
 - [Gradient Generator Project](https://dev.to/iammanojrathod/gradient-generator-project-4bod)
 - [Email Newsletter template using CSS](https://dev.to/iammanojrathod/email-newsletter-template-using-css-jgk)
 - [Auto typing text animation in JavaScript](https://dev.to/iammanojrathod/auto-typing-text-animation-in-javascript-3h69)
 - [Animated hamburger menu](https://dev.to/iammanojrathod/animated-hamburger-menu-2n7n)
-- [Random background color changer in JavaScript](https://dev.to/iammanojrathod/random-background-color-changer-in-javascript-pp2)
 <!-- BLOG-POST-LIST:END -->
            
 <h3 align="left">Support:</h3>

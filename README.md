@@ -94,11 +94,11 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Random Quotes Generator](https://dev.to/iammanojrathod/random-quotes-generator-acd)
 - [Movie app using JavaScript](https://dev.to/iammanojrathod/movie-app-using-javascript-po0)
 - [Fake Store App using API](https://dev.to/iammanojrathod/fake-store-app-using-api-fd6)
 - [Weather app using Javascript](https://dev.to/iammanojrathod/weather-app-using-javascript-4chc)
 - [Gradient Generator Project](https://dev.to/iammanojrathod/gradient-generator-project-4bod)
-- [Email Newsletter template using CSS](https://dev.to/iammanojrathod/email-newsletter-template-using-css-jgk)
 <!-- BLOG-POST-LIST:END -->
            
 <h3 align="left">Support:</h3>

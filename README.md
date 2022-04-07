@@ -41,9 +41,9 @@
 
 ### <div align="left">I’m a Computer Engineering student , I'm a creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</div>  
   
-- 🔭 I’m currently working on [Mstore. (Ecommerce Website)](https://mstore24.netlify.app/)
+- 🔭 I’m currently working on [Portfolio Website](https://manojrathod.herokuapp.com/)
 
-- 🌱 I’m currently learning **JavaScript and React.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
